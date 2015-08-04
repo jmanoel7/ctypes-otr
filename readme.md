@@ -32,7 +32,7 @@ On darwin,
 
 ```
 brew install libotr
-git clone https://github.com/arlolra/ctypes-otr.git
+git clone https://github.com/jmanoel7/ctypes-otr.git
 cd ctypes-otr
 mkdir -p ~/Library/Application\ Support/Instantbird/Profiles/<profile>/extensions
 pwd > ~/Library/Application\ Support/Instantbird/Profiles/<profile>/extensions/ctypes-otr\@tormessenger
@@ -42,7 +42,7 @@ On linux,
 
 ```
 sudo apt-get install libotr5-dev
-git clone https://github.com/arlolra/ctypes-otr.git
+git clone https://github.com/jmanoel7/ctypes-otr.git
 cd ctypes-otr
 mkdir -p ~/.instantbird/<profile>/extensions
 pwd > ~/.instantbird/<profile>/extensions/ctypes-otr\@tormessenger
